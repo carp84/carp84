@@ -24,6 +24,7 @@ My mission: building the open, unified data infrastructure for the AI era.
 | Lakehouse Mgmt | Amoro | — | Incubating |
 | Streaming | Flink | EMR on ECS - DataFlow | **TLP** |
 | NoSQL | HBase | EMR on ECS - DataServing | **TLP** |
+| OLAP | — | EMR StarRocks (Stella Kernel TPC-H 10TB #1) | — |
 | Vector DB | — | Milvus | — |
 
 ## Speaking
