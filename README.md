@@ -22,8 +22,8 @@ My mission: building the open, unified data infrastructure for the AI era.
 | Shuffle Service | Celeborn | EMR Spark Fusion | **TLP** |
 | Native Execution | Gluten | Fusion Kernel (TPC-DS 100TB #1) | **TLP** |
 | Lakehouse Mgmt | Amoro | — | Incubating |
-| Streaming | Flink | Realtime Compute | **TLP** |
-| NoSQL | HBase | — | **TLP** |
+| Streaming | Flink | EMR on ECS - DataFlow | **TLP** |
+| NoSQL | HBase | EMR on ECS - DataServing | **TLP** |
 | Vector DB | — | Milvus | — |
 
 ## Speaking
