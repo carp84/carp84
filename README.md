@@ -17,7 +17,7 @@ My mission: building the open, unified data infrastructure for the AI era.
 
 | Layer | Apache Project | EMR Product | Status |
 |-------|---------------|-------------|--------|
-| Streaming Storage | Fluss | - | Incubating (Graduating to TLP) |
+| Streaming Storage | Fluss | — | Incubating (Graduating to TLP) |
 | Lake Format | Paimon | Milvus (x DLF) Vector Lake | **TLP** |
 | Lakehouse Mgmt | Amoro | — | Incubating |
 | Shuffle Service | Celeborn | EMR Spark Fusion | **TLP** |
