@@ -19,12 +19,12 @@ My mission: building the open, unified data infrastructure for the AI era.
 |-------|---------------|-------------|--------|
 | Streaming Storage | Fluss | - | Incubating (Graduating to TLP) |
 | Lake Format | Paimon | Milvus (x DLF) Vector Lake | **TLP** |
-| Shuffle Service | Celeborn | EMR Spark Fusion | **TLP** |
-| Native Execution | Gluten | Fusion Kernel (TPC-DS 100TB #1) | **TLP** |
 | Lakehouse Mgmt | Amoro | — | Incubating |
+| Shuffle Service | Celeborn | EMR Spark Fusion | **TLP** |
+| Batch Native Execution | Gluten | Fusion Kernel (TPC-DS 100TB #1) | **TLP** |
 | Streaming | Flink | EMR on ECS - DataFlow | **TLP** |
-| NoSQL | HBase | EMR on ECS - DataServing | **TLP** |
 | OLAP | — | EMR StarRocks (Stella Kernel TPC-H 10TB #1) | — |
+| NoSQL | HBase | EMR on ECS - DataServing | **TLP** |
 | Vector DB | — | Milvus | — |
 
 ## Speaking
