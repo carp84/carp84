@@ -17,15 +17,17 @@ My mission: building the open, unified data infrastructure for the AI era.
 
 | Layer | Apache Project | Alibaba Product | Status |
 |-------|---------------|-------------|--------|
-| Streaming Storage | Fluss | Streaming Storage for Apache Fluss | Incubating (Graduating to TLP) |
+| Streaming Storage | Fluss | Streaming Storage for Apache Fluss* | Incubating (Graduating to TLP) |
 | Lake Format | Paimon | Milvus x DLF Vector Lake | **TLP** |
-| Lakehouse Mgmt | Amoro | DLF | Incubating |
+| Lakehouse Mgmt | Amoro | DLF* | Incubating |
 | Shuffle Service | Celeborn | EMR Fusion for Apache Spark | **TLP** |
 | Batch Execution | Gluten | Fusion Kernel (TPC-DS 100TB #1) | **TLP** |
-| OLAP | — | EMR StarRocks (Stella Kernel TPC-H 10TB #1) | — |
-| Streaming | Flink | Realtime Compute for Apache Flink | **TLP** |
+| OLAP | Doris* | EMR StarRocks (Stella Kernel TPC-H 10TB #1) | — |
+| Streaming | Flink | Realtime Compute for Apache Flink* | **TLP** |
 | NoSQL | HBase | EMR on ECS - DataServing | **TLP** |
 | Vector DB | — | Milvus | — |
+
+Note: Items marked with an asterisk (*) are not projects I am involved in or products I am responsible for.
 
 ## Speaking
 
